@@ -9,7 +9,7 @@ public class Main {
         Scanner s = new Scanner(System.in);
         
         /* Encapsulation */
-        User u = new User(1213, "Jhon-Rhey", "Jhon-Rhey", "Capule");
+        User u = new User(1213, "Jhon-Rhey", "Jhon-Rhey", "Mejos");
         u.setUserID(41222);
         int id = u.getUserID();
         System.out.println(id);
